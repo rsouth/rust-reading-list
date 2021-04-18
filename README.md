@@ -1,24 +1,20 @@
 # rust-note-dump
 
+Rust modules vs files
 https://fasterthanli.me/articles/rust-modules-vs-files
-fasterthanli.me
-Rust modules vs files - fasterthanli.me
 
-
+Stack Overflow - What is the difference between iter and into_iter?
 https://stackoverflow.com/questions/34733811/what-is-the-difference-between-iter-and-into-iter
-Stack Overflow
-What is the difference between iter and into_iter?
 
-
-https://nnethercote.github.io/perf-book/heap-allocations.html
 Heap Allocations - The Rust Performance Book
+https://nnethercote.github.io/perf-book/heap-allocations.html
 
 https://kornel.ski/rust-c-speed
 
 https://cheats.rs/#idiomatic-rust
 
-https://rust-lang-nursery.github.io/rust-cookbook/
 Collection of useful Rust code examples
+https://rust-lang-nursery.github.io/rust-cookbook/
 
 
 https://dhghomon.github.io/easy_rust/Chapter_3.html
