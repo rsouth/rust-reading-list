@@ -151,3 +151,4 @@ https://www.ralfj.de/projects/rust-101/part00.html
 
 https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destructure_structures.html
 
+https://carols10cents.github.io/rust-conversion-reference/
