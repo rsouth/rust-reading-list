@@ -1,5 +1,30 @@
 # rust-note-dump
 
+Collection of hopefully useful, semi-organised links as a reference from my first few weeks with Rust. Happy to accept PRs for any other useful links!
+
+- [rust-note-dump](#rust-note-dump)
+  * [Common](#common)
+  * [Performance](#performance)
+  * [Borrowing and Lifetimes etc](#borrowing-and-lifetimes-etc)
+  * [Async](#async)
+  * [Idiomatic Rust](#idiomatic-rust)
+  * [Articles](#articles)
+  * [Useful notes](#useful-notes)
+  * [Other resources](#other-resources)
+  * [Crates](#crates)
+    + [Actix](#actix)
+    + [Tokio](#tokio)
+    + [GUI](#gui)
+    + [Serde](#serde)
+    + [Misc](#misc)
+  * [Series](#series)
+  * [Testing](#testing)
+  * [Benching](#benching)
+- [Dumping ground](#dumping-ground)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> :thumbsup:
+
+
 ## Common
 
 https://www.rust-lang.org/learn
@@ -10,20 +35,16 @@ Collection of useful Rust code examples
 https://rust-lang-nursery.github.io/rust-cookbook/
 
 https://doc.rust-lang.org/stable/rust-by-example/
-Introduction - Rust By Example
 Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 
 https://dhghomon.github.io/easy_rust/
-Writing Rust in Easy English - Easy Rust
+Writing Rust in Easy English
 
 
 ## Performance
 
 https://nnethercote.github.io/perf-book/general-tips.html
-General Tips - The Rust Performance Book
-
-Heap Allocations - The Rust Performance Book
-https://nnethercote.github.io/perf-book/heap-allocations.html
+The Rust Performance Book
 
 https://kornel.ski/rust-c-speed
 
@@ -43,13 +64,13 @@ https://www.ralfj.de/blog/2019/07/14/uninit.html
 "What The Hardware Does" is not What Your Program Does
 
 
-## Borrowing / Lifetimes etc
+## Borrowing and Lifetimes etc
 
 http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/references-and-borrowing.html
-References and Borrowing - The Rust Programming Language
+References and Borrowing
 
 https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html
-What is Ownership? - The Rust Programming Language
+What is Ownership?
 
 https://www.youtube.com/watch?v=8M0QfLUDaaA
 Learning Rust: Memory, Ownership and Borrowing
@@ -60,8 +81,7 @@ Learning Rust: Memory, Ownership and Borrowing
 https://tokio.rs/blog/2020-04-preemption#a-note-on-blocking
 
 
-
-## What's idiomatic?
+## Idiomatic Rust
 
 https://cheats.rs/#idiomatic-rust
 
@@ -75,7 +95,7 @@ https://mudit.blog/rust-tips-and-tricks/
 Rust lang Tips and Tricks | Mudit Gupta's Blog
 
 https://learning-rust.github.io/docs/e4.unwrap_and_expect.html
-Unwrap and Expect | Learning Rust
+Unwrap and Expect
 
 https://speakerdeck.com/mre/idiomatic-rust-writing-concise-and-elegant-rust-code
 
@@ -233,13 +253,12 @@ https://crates.io/crates/async-trait
 ## Series
 
 Doug Milford's Rust series: https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5
-Easy Rust playlist: https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 
+Easy Rust playlist: https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 
 https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
 Rust for OOP - Series Introduction
 This blog is designed to cover topics related to both Rust & C++ languages. This blog has emphasis on strong typing and design choices.
-
 
 https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html
 Introduction to the Rust language, standard library and ecosystem
@@ -247,10 +266,8 @@ Introduction to the Rust language, standard library and ecosystem
 https://rust-unofficial.github.io/too-many-lists/
 Learning Rust With Entirely Too Many Linked Lists
 
-
 https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
 Rust for OOP - Series Introduction
-
 
 https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/amp/
 Rust Programming Language Tutorial – How to Build a To-Do List App
@@ -283,32 +300,5 @@ https://archive.fosdem.org/2018/schedule/event/rust_testing_mocking/attachments/
 # Dumping ground
 
 > Everything below here is uncategorised, dumped for later review
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
