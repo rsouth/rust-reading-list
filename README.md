@@ -2,7 +2,6 @@
 
 Collection of hopefully useful, semi-organised links as a reference from my first few weeks with Rust. Happy to accept PRs for any other useful links!
 
-- [rust-note-dump](#rust-note-dump)
   * [Common](#common)
   * [Performance](#performance)
   * [Borrowing and Lifetimes etc](#borrowing-and-lifetimes-etc)
