@@ -216,10 +216,6 @@ https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destr
 
 ## Other resources
 
-https://github.com/sger/RustBooks
-
-https://project-awesome.org/rust-unofficial/awesome-rust
-
 Exercism.
 https://exercism.io/tracks/rust
 
@@ -233,11 +229,6 @@ https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoD
 
 Easy Rust book
 https://dhghomon.github.io/easy_rust/Chapter_13.html
-
-List of Rust books
-https://github.com/sger/RustBooks
-
-https://github.com/kud1ing/awesome-rust
 
 Rust Programming Language Tutorials
 https://medium.com/learning-rust
@@ -254,9 +245,6 @@ https://danielkeep.github.io/tlborm/book/index.html
 
 Software Projects. Code Samples. Software Links
 https://jimfawcett.github.io/SiteMap.html
-
-Not Rust specific, but: A public list of APIs
-https://github.com/n0shake/Public-APIs
 
 
 ## Crates
@@ -340,7 +328,7 @@ https://learnxinyminutes.com/docs/rust/
 Microsoft's Rust tutorials
 https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 
-https://www.ralfj.de/projects/rust-101/part00.html
+https://www.ralfj.de/projects/rust-101/main.html
 
 
 ## Testing
@@ -359,6 +347,21 @@ https://github.com/bheisler/criterion.rs
 https://bheisler.github.io/criterion.rs/book/getting_started.html
 
 https://bheisler.github.io/criterion.rs/book/index.html
+
+
+## Other Lists
+
+https://github.com/sger/RustBooks
+
+https://github.com/ctjhoa/rust-learning
+
+https://github.com/kud1ing/awesome-rust / https://project-awesome.org/rust-unofficial/awesome-rust
+
+List of Rust books
+https://github.com/sger/RustBooks
+
+Not Rust specific, but: A public list of APIs
+https://github.com/n0shake/Public-APIs
 
 
 # Dumping ground
