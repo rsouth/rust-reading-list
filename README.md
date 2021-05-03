@@ -343,7 +343,9 @@ https://archive.fosdem.org/2018/schedule/event/rust_testing_mocking/attachments/
 
 ## Benching
 
- Criterion
+ Criterion https://github.com/bheisler/criterion.rs
+ https://bheisler.github.io/criterion.rs/book/getting_started.html
+ https://bheisler.github.io/criterion.rs/book/index.html
 
 
 # Dumping ground
