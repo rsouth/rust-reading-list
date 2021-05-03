@@ -25,7 +25,7 @@ Collection of hopefully useful, semi-organised links as a reference from my firs
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> :thumbsup:
 
-## Files
+## 💾 Downloads
 
 Useful / interesting files, mirrored here lest they move or vanish.
 
@@ -44,7 +44,7 @@ https://github.com/rsouth/rust-note-dump/blob/main/rust.pdf
 "Testing in Rust"
 https://github.com/rsouth/rust-note-dump/blob/main/testing_in_rust_by_donald_whyte.pdf
 
-## Common
+## 🌟 Common
 
 https://www.rust-lang.org/learn
 
@@ -61,7 +61,7 @@ Writing Rust in Easy English
 https://dhghomon.github.io/easy_rust/
 
 
-## Performance
+## 🚀 Performance
 
 The Rust Performance Book
 https://nnethercote.github.io/perf-book/general-tips.html
@@ -120,7 +120,7 @@ SIMD for faster computing
 https://doc.rust-lang.org/edition-guide/rust-2018/simd-for-faster-computing.html
 
 
-## Borrowing and Lifetimes etc
+## 🔄 Borrowing and Lifetimes etc
 
 References and Borrowing
 http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/references-and-borrowing.html
@@ -132,7 +132,7 @@ Learning Rust: Memory, Ownership and Borrowing
 https://www.youtube.com/watch?v=8M0QfLUDaaA
 
 
-## Async
+## 🔀 Async
 
 https://tokio.rs/blog/2020-04-preemption#a-note-on-blocking
 
@@ -147,7 +147,7 @@ Futures Explained in 200 Lines of Rust
 https://cfsamson.github.io/books-futures-explained/
 
 
-## Idiomatic Rust
+## 🦀 Idiomatic Rust
 
 https://cheats.rs/#idiomatic-rust
 
@@ -176,7 +176,7 @@ Design Patterns https://rust-unofficial.github.io/patterns/ (https://github.com/
 
 
 
-## Articles
+## 📰 Articles
 
 Rust for Java Devs
 https://leshow.github.io/post/rust_for_java_devs/
@@ -202,7 +202,7 @@ Is It Time to Rewrite the Operating System in Rust?
 https://www.youtube.com/watch?t=2457&v=HgtRAbE1nBM&feature=youtu.be
 
 
-## Useful notes
+## 🎶 Useful notes
 
 Stack Overflow - What is the difference between iter and into_iter?
 https://stackoverflow.com/questions/34733811/what-is-the-difference-between-iter-and-into-iter
@@ -256,7 +256,7 @@ Software Projects. Code Samples. Software Links
 https://jimfawcett.github.io/SiteMap.html
 
 
-## Crates
+## 🧰 Crates
 
 ### Actix
 
@@ -340,14 +340,14 @@ https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 https://www.ralfj.de/projects/rust-101/main.html
 
 
-## Testing
+## ✔️ Testing
 
 https://knowitlabs.no/rust-2020-testing-4ab3d80112ba
 
 https://archive.fosdem.org/2018/schedule/event/rust_testing_mocking/attachments/slides/2113/export/events/attachments/rust_testing_mocking/slides/2113/testing_in_rust_by_donald_whyte.pdf
 
 
-## Benching
+## 📏 Benching
 
 ### Criterion
 
@@ -378,7 +378,7 @@ https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md
 
 ## Rust for X Programmers
 
-### ... Java
+### ☕ ... Java
 
 https://llogiq.github.io/2016/02/28/java-rust.html
 
@@ -390,7 +390,7 @@ https://overexact.com/rust-for-professionals/
 
 https://beachape.com/blog/2017/05/24/rust-from-scala/
 
-### ... Python
+### 🐍 ... Python
 
 https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 
