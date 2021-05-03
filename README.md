@@ -143,6 +143,9 @@ https://tokio.rs/tokio/tutorial/spawning#concurrency
 
 https://stackoverflow.com/questions/55552413/what-is-the-difference-between-then-and-then-and-or-else-in-rust-futures
 
+Futures Explained in 200 Lines of Rust
+https://cfsamson.github.io/books-futures-explained/
+
 
 ## Idiomatic Rust
 
@@ -168,6 +171,9 @@ https://llogiq.github.io/2015/07/30/traits.html
 
 Basic Rust iterator usage
 https://github.com/rustomax/rust-iterators
+
+Design Patterns https://rust-unofficial.github.io/patterns/ (https://github.com/rust-unofficial/patterns)
+
 
 
 ## Articles
@@ -212,6 +218,9 @@ https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observabl
 https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
 
 https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destructure_structures.html
+
+Everything you need to know about cross compiling Rust programs!
+https://github.com/japaric/rust-cross
 
 
 ## Other resources
@@ -362,6 +371,28 @@ https://github.com/sger/RustBooks
 
 Not Rust specific, but: A public list of APIs
 https://github.com/n0shake/Public-APIs
+
+Awesomo Rust
+https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md
+
+
+## Rust for X Programmers
+
+### ... Java
+
+https://llogiq.github.io/2016/02/28/java-rust.html
+
+https://gist.github.com/Kimundi/8391398
+
+https://overexact.com/rust-for-professionals/
+
+### ... Scala
+
+https://beachape.com/blog/2017/05/24/rust-from-scala/
+
+### ... Python
+
+https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 
 
 # Dumping ground
