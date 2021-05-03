@@ -25,7 +25,7 @@ Collection of hopefully useful, semi-organised links as a reference from my firs
   * [Criterion](#criterion)
 - [Other Lists](#other-lists)
 - [Rust for X Programmers](#rust-for-x-programmers)
-  * [☕ ... Java](#-java)
+  * [☕ ... Java](#--java)
   * [... Scala](#-scala)
   * [🐍 ... Python](#--python)
 - [💾 Downloads](#-downloads)
