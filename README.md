@@ -57,7 +57,7 @@ https://dhghomon.github.io/easy_rust/
 The Rust Performance Book
 https://nnethercote.github.io/perf-book/general-tips.html
 
-(Correct, Readable and Performant) How to write CRaP Rust code
+How to write CRaP Rust code (Correct, Readable and Performant)
 https://blog.logrocket.com/how-to-write-crap-rust-code/
 
 Optimizing your code
@@ -121,7 +121,7 @@ Learning Rust: Memory, Ownership and Borrowing
 https://www.youtube.com/watch?v=8M0QfLUDaaA
 
 
-## 🔀 Async
+## 🧵 Async
 
 https://tokio.rs/blog/2020-04-preemption#a-note-on-blocking
 
@@ -246,6 +246,8 @@ https://jimfawcett.github.io/SiteMap.html
 
 ## 🧰 Crates
 
+> TODO Organise crates by functional areas - use this space to provide useful links relating to great crates, not just linking to the crate.
+
 ### Actix
 
 https://alinex.gitlab.io/rust/crates/actix/
@@ -284,9 +286,23 @@ https://docs.rs/tokio/1.4.0/tokio/
 
 https://github.com/linebender/druid
 
+https://github.com/tauri-apps/tauri
+
+https://www.boringcactus.com/2020/08/21/survey-of-rust-gui-libraries.html
+
+https://www.areweguiyet.com/
+
 ### Serde
 
 https://serde.rs/attr-default.html
+
+###
+
+https://github.com/rayon-rs/rayon
+
+### raqote
+
+https://crates.io/crates/raqote
 
 ### Misc
 
@@ -353,7 +369,7 @@ https://github.com/kud1ing/awesome-rust / https://project-awesome.org/rust-unoff
 Awesomo Rust
 https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md
 
-List of Rust books
+📘 List of Rust books
 https://github.com/sger/RustBooks
 
 Not Rust specific, but: A public list of APIs
@@ -402,6 +418,23 @@ https://github.com/rsouth/rust-note-dump/blob/main/testing_in_rust_by_donald_why
 
 "Idiomatic Rust - Writing concise and elegant Rust code"
 https://github.com/rsouth/rust-reading-list/blob/main/Idiomatic_Rust_-_Matthias_Endler_-_FOSDEM_2018.pdf
+
+## Are we ... yet?
+
+List of "Are we ... yet" sites on Moz wiki
+https://wiki.mozilla.org/Areweyet
+
+https://arewegameyet.rs/
+
+https://arewewebyet.org/
+
+https://areweguiyet.com/
+
+## Blogs
+
+http://troubles.md/
+
+https://www.ralfj.de/blog/
 
 
 # Dumping ground
