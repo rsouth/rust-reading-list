@@ -29,15 +29,16 @@ Collection of hopefully useful, semi-organised links as a reference from my firs
 
 > **The Book** and other useful reference material.
 
+Entrypoint for various rust-lang documentation: [The Book](https://doc.rust-lang.org/book/), [RBE](https://doc.rust-lang.org/stable/rust-by-example/), [std lib](https://doc.rust-lang.org/std/index.html), [Compiler Error Index](https://doc.rust-lang.org/error-index.html) and loads more.
 https://www.rust-lang.org/learn
 
 🙏 The Rust Book
-https://doc.rust-lang.org/nightly/book/
+https://doc.rust-lang.org/book/ / Nightly: https://doc.rust-lang.org/nightly/book/
 
-Collection of useful Rust code examples
+Rust Bookbook - Collection of useful Rust code examples
 https://rust-lang-nursery.github.io/rust-cookbook/
 
-Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
+Rust by Example (RBE) - Collection of runnable examples that illustrate various Rust concepts and standard libraries
 https://doc.rust-lang.org/stable/rust-by-example/
 
 Writing Rust in Easy English
@@ -48,8 +49,6 @@ https://dhghomon.github.io/easy_rust/
 
 The Rust Performance Book
 https://nnethercote.github.io/perf-book/general-tips.html
-
-https://kornel.ski/rust-c-speed
 
 (Correct, Readable and Performant) How to write CRaP Rust code
 https://blog.logrocket.com/how-to-write-crap-rust-code/
@@ -161,9 +160,6 @@ Design Patterns https://rust-unofficial.github.io/patterns/ (https://github.com/
 
 ## 📰 Articles
 
-Rust for Java Devs
-https://leshow.github.io/post/rust_for_java_devs/
-
 https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738
 
 Object-Oriented Programming in Rust
@@ -181,8 +177,11 @@ https://rust-unofficial.github.io/patterns/idioms/ffi/intro.html
 
 https://joshondesign.com/2020/04/13/browser_render
 
-Is It Time to Rewrite the Operating System in Rust?
+🎥 Is It Time to Rewrite the Operating System in Rust?
 https://www.youtube.com/watch?t=2457&v=HgtRAbE1nBM&feature=youtu.be
+
+The Speed of Rust vs C
+https://kornel.ski/rust-c-speed
 
 
 ## 🎶 Useful notes
@@ -364,6 +363,8 @@ https://llogiq.github.io/2016/02/28/java-rust.html
 https://gist.github.com/Kimundi/8391398
 
 https://overexact.com/rust-for-professionals/
+
+https://leshow.github.io/post/rust_for_java_devs/
 
 ### ... Scala
 
