@@ -349,23 +349,6 @@ https://archive.fosdem.org/2018/schedule/event/rust_testing_mocking/attachments/
 # Dumping ground
 
 > Everything below here is uncategorised, dumped for later review
-> 
-
-
-
-https://rust-unofficial.github.io/too-many-lists/#an-obligatory-public-service-announcement
-Learning Rust With Entirely Too Many Linked Lists
-
-
-
-
-
-
-
-https://llblumire.co.uk/thinking-in-rust-part-1-types/
-Thinking In Rust Part 1: Types
-Rust is a programming language that requires you to change how you think.To learn a new programming language, you need to learn it's flavour of syntax. For many, once you know the standard OOP paradigms of classes and inheritence, you can transfer between other languages with ease. Rust requires
-
-
+ 
 
 
