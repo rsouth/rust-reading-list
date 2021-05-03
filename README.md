@@ -2,8 +2,10 @@
 
 Collection of hopefully useful, semi-organised links as a reference from my first few weeks with Rust. Happy to accept PRs for any other useful links!
 
+  * [Files](#files)
   * [Common](#common)
   * [Performance](#performance)
+    + [SIMD](#simd)
   * [Borrowing and Lifetimes etc](#borrowing-and-lifetimes-etc)
   * [Async](#async)
   * [Idiomatic Rust](#idiomatic-rust)
@@ -19,7 +21,7 @@ Collection of hopefully useful, semi-organised links as a reference from my firs
   * [Series](#series)
   * [Testing](#testing)
   * [Benching](#benching)
-- [Dumping ground](#dumping-ground)
+    + [Criterion](#criterion)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> :thumbsup:
 
