@@ -62,6 +62,43 @@ Acheiving warp speed with Rust
 https://www.ralfj.de/blog/2019/07/14/uninit.html
 "What The Hardware Does" is not What Your Program Does
 
+https://www.youtube.com/watch?v=WDIkqP4JbkE
+code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care
+
+https://stackoverflow.com/a/11227902/435253
+Why is processing a sorted array faster than processing an unsorted...
+
+https://www.reddit.com/r/rust/comments/bb5lnj/where_should_i_start_if_i_want_to_squeeze_out_as/
+r/rust - Where should I start if I want to squeeze out as much perf...
+
+https://www.youtube.com/results?search_query=mike+acton
+
+http://troubles.md/posts/rustfest-2018-workshop/
+Fastware Workshop
+
+https://dendibakh.github.io/blog/2019/02/09/Top-Down-performance-analysis-methodology
+Top-Down performance analysis methodology. | Easyperf
+
+https://llogiq.github.io/2017/06/01/perf-pitfalls.html
+
+https://github.com/dgryski/go-perfbook
+
+http://llvm.org/docs/LangRef.html && https://rust.godbolt.org/
+Compiler Explorer
+
+https://www.worthe-it.co.za/blog/2018-09-23-performance-tuning-in-rust.html
+
+https://blog.mozilla.org/nnethercote/category/performance/
+
+https://docs.rust-embedded.org/book/unsorted/speed-vs-size.html
+Optimizations: The speed size tradeoff - The Embedded Rust Book
+
+
+### SIMD
+
+https://doc.rust-lang.org/edition-guide/rust-2018/simd-for-faster-computing.html
+SIMD for faster computing - The Edition Guide
+
 
 ## Borrowing and Lifetimes etc
 
@@ -78,6 +115,12 @@ Learning Rust: Memory, Ownership and Borrowing
 ## Async
 
 https://tokio.rs/blog/2020-04-preemption#a-note-on-blocking
+
+
+https://ryhl.io/blog/async-what-is-blocking/
+Async: What is blocking? – Alice Ryhl (& Alice Rhyl's writings in general!)
+
+https://tokio.rs/tokio/tutorial/spawning#concurrency
 
 
 ## Idiomatic Rust
@@ -130,6 +173,8 @@ Foreign function interface (FFI) - Rust Design Patterns
 
 https://joshondesign.com/2020/04/13/browser_render
 
+https://www.youtube.com/watch?t=2457&v=HgtRAbE1nBM&feature=youtu.be
+Is It Time to Rewrite the Operating System in Rust?
 
 
 ## Useful notes
@@ -202,7 +247,6 @@ Not Rust specific, but: A public list of APIs from round the web.
 
 ### Actix
 
-
 https://alinex.gitlab.io/rust/crates/actix/
 
 https://docs.rs/actix/0.11.1/actix/fut/future/trait.ActorFuture.html
@@ -251,6 +295,8 @@ https://serde.rs/attr-default.html
 
 https://crates.io/crates/async-trait
 
+https://lib.rs/crates/anyhow
+Anyhow — Rust library - Flexible concrete Error type built on std::error::Error
 
 
 ## Series
@@ -307,59 +353,19 @@ https://archive.fosdem.org/2018/schedule/event/rust_testing_mocking/attachments/
 
 
 
-https://www.youtube.com/watch?v=WDIkqP4JbkE
-code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care
-
-https://stackoverflow.com/a/11227902/435253
-Why is processing a sorted array faster than processing an unsorted...
-
 https://rust-unofficial.github.io/too-many-lists/#an-obligatory-public-service-announcement
 Learning Rust With Entirely Too Many Linked Lists
 
-https://www.reddit.com/r/rust/comments/bb5lnj/where_should_i_start_if_i_want_to_squeeze_out_as/
-r/rust - Where should I start if I want to squeeze out as much perf...
 
-https://www.youtube.com/results?search_query=mike+acton
 
-http://troubles.md/posts/rustfest-2018-workshop/
-Fastware Workshop
 
-https://dendibakh.github.io/blog/2019/02/09/Top-Down-performance-analysis-methodology
-Top-Down performance analysis methodology. | Easyperf
 
-https://llogiq.github.io/2017/06/01/perf-pitfalls.html
 
-https://github.com/dgryski/go-perfbook
-
-https://www.youtube.com/watch?t=2457&v=HgtRAbE1nBM&feature=youtu.be
-Is It Time to Rewrite the Operating System in Rust?
-
-http://llvm.org/docs/LangRef.html
-
-https://rust.godbolt.org/
-Compiler Explorer
-
-https://www.worthe-it.co.za/blog/2018-09-23-performance-tuning-in-rust.html
-
-https://blog.mozilla.org/nnethercote/category/performance/
-
-https://lib.rs/crates/anyhow
-Anyhow — Rust library - Flexible concrete Error type built on std::error::Error
-
-https://ryhl.io/blog/async-what-is-blocking/
-Async: What is blocking? – Alice Ryhl
-The async/await feature in Rust is implemented using a mechanism known as cooperative scheduling, and this has some important consequences for people who write asynchronous Rust code.
-
-https://tokio.rs/tokio/tutorial/spawning#concurrency
-
-https://docs.rust-embedded.org/book/unsorted/speed-vs-size.html
-Optimizations: The speed size tradeoff - The Embedded Rust Book
 
 https://llblumire.co.uk/thinking-in-rust-part-1-types/
 Thinking In Rust Part 1: Types
 Rust is a programming language that requires you to change how you think.To learn a new programming language, you need to learn it's flavour of syntax. For many, once you know the standard OOP paradigms of classes and inheritence, you can transfer between other languages with ease. Rust requires
 
-https://doc.rust-lang.org/edition-guide/rust-2018/simd-for-faster-computing.html
-SIMD for faster computing - The Edition Guide
+
 
 
