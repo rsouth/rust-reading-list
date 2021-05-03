@@ -293,37 +293,34 @@ https://lib.rs/crates/anyhow
 
 ## Series
 
-Doug Milford's Rust series: https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5
+Doug Milford's Rust series
+https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5
 
-Easy Rust playlist: https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
+Easy Rust playlist
+https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 
-https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
 Rust for OOP - Series Introduction
-This blog is designed to cover topics related to both Rust & C++ languages. This blog has emphasis on strong typing and design choices.
+https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
 
-https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html
 Introduction to the Rust language, standard library and ecosystem
+https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html
 
-https://rust-unofficial.github.io/too-many-lists/
 Learning Rust With Entirely Too Many Linked Lists
+https://rust-unofficial.github.io/too-many-lists/
 
-https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
-Rust for OOP - Series Introduction
-
-https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/amp/
 Rust Programming Language Tutorial – How to Build a To-Do List App
+https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/amp/
 
-https://teachyourselfcs.com/
 All the resources you need to give yourself a world class computer science education
+https://teachyourselfcs.com/
 
-https://learnxinyminutes.com/docs/rust/
 Learn Rust in Y Minutes
+https://learnxinyminutes.com/docs/rust/
 
-https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 Microsoft's Rust tutorials
+https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 
 https://www.ralfj.de/projects/rust-101/part00.html
-
 
 
 ## Testing
@@ -335,9 +332,13 @@ https://archive.fosdem.org/2018/schedule/event/rust_testing_mocking/attachments/
 
 ## Benching
 
- Criterion https://github.com/bheisler/criterion.rs
- https://bheisler.github.io/criterion.rs/book/getting_started.html
- https://bheisler.github.io/criterion.rs/book/index.html
+### Criterion
+
+https://github.com/bheisler/criterion.rs
+
+https://bheisler.github.io/criterion.rs/book/getting_started.html
+
+https://bheisler.github.io/criterion.rs/book/index.html
 
 
 # Dumping ground
