@@ -23,6 +23,24 @@ Collection of hopefully useful, semi-organised links as a reference from my firs
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> :thumbsup:
 
+## Files
+
+Useful / interesting files, mirrored here lest they move or vanish.
+
+"Is Rust Used Safely by Software Developers"
+https://github.com/rsouth/rust-note-dump/blob/main/2007.00752.pdf
+
+"Safe Systems Programming in Rust"
+https://github.com/rsouth/rust-note-dump/blob/main/2021-rustbelt-cacm-final.pdf
+
+"What Every Programmer Should Know About Memory"
+https://github.com/rsouth/rust-note-dump/blob/main/cpumemory.pdf
+
+Packt "Learning Rust" Free eBook
+https://github.com/rsouth/rust-note-dump/blob/main/rust.pdf
+
+"Testing in Rust"
+https://github.com/rsouth/rust-note-dump/blob/main/testing_in_rust_by_donald_whyte.pdf
 
 ## Common
 
