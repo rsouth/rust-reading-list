@@ -393,6 +393,9 @@ https://github.com/rsouth/rust-note-dump/blob/main/rust.pdf
 "Testing in Rust"
 https://github.com/rsouth/rust-note-dump/blob/main/testing_in_rust_by_donald_whyte.pdf
 
+"Idiomatic Rust - Writing concise and elegant Rust code"
+https://github.com/rsouth/rust-reading-list/blob/main/Idiomatic_Rust_-_Matthias_Endler_-_FOSDEM_2018.pdf
+
 
 # Dumping ground
 
