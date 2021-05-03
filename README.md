@@ -118,7 +118,7 @@ https://www.youtube.com/watch?v=8M0QfLUDaaA
 
 https://tokio.rs/blog/2020-04-preemption#a-note-on-blocking
 
-Async: What is blocking? – Alice Ryhl (& Alice Rhyl's writings in general!)
+Async: What is blocking? – Alice Ryhl (& Alice and other Tokio dev writing in general are must-reads for async)
 https://ryhl.io/blog/async-what-is-blocking/
 
 https://tokio.rs/tokio/tutorial/spawning#concurrency
@@ -155,7 +155,6 @@ Basic Rust iterator usage
 https://github.com/rustomax/rust-iterators
 
 Design Patterns https://rust-unofficial.github.io/patterns/ (https://github.com/rust-unofficial/patterns)
-
 
 
 ## 📰 Articles
