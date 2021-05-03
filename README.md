@@ -72,16 +72,14 @@ http://troubles.md/rust-optimization/
 "What The Hardware Does" is not What Your Program Does
 https://www.ralfj.de/blog/2019/07/14/uninit.html
 
-code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care
+🎥 Scott Meyers: Cpu Caches and Why You Care
 https://www.youtube.com/watch?v=WDIkqP4JbkE
 
-Why is processing a sorted array faster than processing an unsorted...
-https://stackoverflow.com/a/11227902/435253
+Branch prediction - Why is processing a sorted array faster than processing an unsorted array?
+https://stackoverflow.com/a/11227902
 
-Where should I start if I want to squeeze out as much perf...
+Where should I start if I want to squeeze out as much performance as I can from my rust code?
 https://www.reddit.com/r/rust/comments/bb5lnj/where_should_i_start_if_i_want_to_squeeze_out_as/
-
-https://www.youtube.com/results?search_query=mike+acton
 
 Fastware Workshop
 http://troubles.md/posts/rustfest-2018-workshop/
@@ -96,12 +94,13 @@ https://github.com/dgryski/go-perfbook
 LLVM reference and Godbolt Compiler Explorer
 http://llvm.org/docs/LangRef.html && https://rust.godbolt.org/
 
+Performance Tuning In Rust Using Benchmarking And Perf
 https://www.worthe-it.co.za/blog/2018-09-23-performance-tuning-in-rust.html
-
-https://blog.mozilla.org/nnethercote/category/performance/
 
 Optimizations: The speed size tradeoff - The Embedded Rust Book
 https://docs.rust-embedded.org/book/unsorted/speed-vs-size.html
+
+https://www.youtube.com/results?search_query=mike+acton
 
 ### SIMD
 
@@ -166,14 +165,16 @@ Design Patterns https://rust-unofficial.github.io/patterns/ (https://github.com/
 
 ## 📰 Articles
 
+Learning Rust by solving all 189 problems from the “Cracking the Coding Interview” book
 https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738
 
 Object-Oriented Programming in Rust
 https://blog.devgenius.io/object-oriented-programming-in-rust-691baf4d2996
 
+So you want to write object oriented Rust
 https://blog.darrien.dev/posts/so-you-want-to-object/
 
-These Modern Programming Languages Will Make You SufferThese Modern Programming Languages Will Make You Suffer
+These Modern Programming Languages Will Make You Suffer
 https://betterprogramming.pub/modern-languages-suck-ad21cbc8a57c
 
 https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html
@@ -181,7 +182,8 @@ https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html
 Foreign function interface (FFI) - Rust Design Patterns
 https://rust-unofficial.github.io/patterns/idioms/ffi/intro.html
 
-https://joshondesign.com/2020/04/13/browser_render
+Building a Rust Web Browser
+https://joshondesign.com/2020/03/10/rust_minibrowser
 
 🎥 Is It Time to Rewrite the Operating System in Rust?
 https://www.youtube.com/watch?t=2457&v=HgtRAbE1nBM&feature=youtu.be
@@ -189,16 +191,19 @@ https://www.youtube.com/watch?t=2457&v=HgtRAbE1nBM&feature=youtu.be
 The Speed of Rust vs C
 https://kornel.ski/rust-c-speed
 
+https://brson.github.io/fireflowers/
+
 
 ## 🎶 Useful notes
 
 Stack Overflow - What is the difference between iter and into_iter?
 https://stackoverflow.com/questions/34733811/what-is-the-difference-between-iter-and-into-iter
+https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html
 
 Rust modules vs files
 https://fasterthanli.me/articles/rust-modules-vs-files
 
-Rust package with both a library and a binary?
+Stack Overflow - Rust package with both a library and a binary?
 https://stackoverflow.com/questions/26946646/rust-package-with-both-a-library-and-a-binary
 
 https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/
@@ -207,7 +212,7 @@ https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
 
 https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destructure_structures.html
 
-Everything you need to know about cross compiling Rust programs!
+Everything you need to know about cross compiling Rust programs
 https://github.com/japaric/rust-cross
 
 
@@ -376,7 +381,7 @@ Not Rust specific, but: A public list of APIs
 https://github.com/n0shake/Public-APIs
 
 
-## Rust for X Programmers
+## Rust for ... Programmers
 
 ### ☕ ... Java
 
@@ -424,10 +429,13 @@ https://github.com/rsouth/rust-reading-list/blob/main/Idiomatic_Rust_-_Matthias_
 List of "Are we ... yet" sites on Moz wiki
 https://wiki.mozilla.org/Areweyet
 
+ ... 👾
 https://arewegameyet.rs/
 
+ ... 🕸️
 https://arewewebyet.org/
 
+ ... 🖱️
 https://areweguiyet.com/
 
 ## Blogs
@@ -435,6 +443,10 @@ https://areweguiyet.com/
 http://troubles.md/
 
 https://www.ralfj.de/blog/
+
+Nicholas Nethercote - personal site https://nnethercote.github.io/ and Moz blog https://blog.mozilla.org/nnethercote/category/performance/
+
+https://llogiq.github.io/
 
 
 # Dumping ground
