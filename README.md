@@ -4,8 +4,8 @@ Collection of hopefully useful, semi-organised links as a reference from my firs
 
 ## Contents
 
-- [🌟 References](#---references)
-- [🚀 Performance](#---performance)
+- [🌟 References](#-references)
+- [🚀 Performance](#-performance)
   * [SIMD](#simd)
 - [🔄 Borrowing and Lifetimes etc](#---borrowing-and-lifetimes-etc)
 - [🔀 Async](#---async)
