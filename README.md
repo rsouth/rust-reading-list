@@ -1,4 +1,4 @@
-# rust-note-dump
+# Rust 🦀 Reading List
 
 Collection of hopefully useful, semi-organised links as a reference from my first few weeks with Rust. Happy to accept PRs for any other useful links!
 
@@ -25,30 +25,13 @@ Collection of hopefully useful, semi-organised links as a reference from my firs
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> :thumbsup:
 
-## 💾 Downloads
+## 🌟 References
 
-Useful / interesting files, mirrored here lest they move or vanish.
-
-"Is Rust Used Safely by Software Developers"
-https://github.com/rsouth/rust-note-dump/blob/main/2007.00752.pdf
-
-"Safe Systems Programming in Rust"
-https://github.com/rsouth/rust-note-dump/blob/main/2021-rustbelt-cacm-final.pdf
-
-"What Every Programmer Should Know About Memory"
-https://github.com/rsouth/rust-note-dump/blob/main/cpumemory.pdf
-
-Packt "Learning Rust" Free eBook
-https://github.com/rsouth/rust-note-dump/blob/main/rust.pdf
-
-"Testing in Rust"
-https://github.com/rsouth/rust-note-dump/blob/main/testing_in_rust_by_donald_whyte.pdf
-
-## 🌟 Common
+> **The Book** and other useful reference material.
 
 https://www.rust-lang.org/learn
 
-The Rust Book
+🙏 The Rust Book
 https://doc.rust-lang.org/nightly/book/
 
 Collection of useful Rust code examples
@@ -310,10 +293,10 @@ https://lib.rs/crates/anyhow
 
 ## Series
 
-Doug Milford's Rust series
+🎥 Doug Milford's Rust series
 https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5
 
-Easy Rust playlist
+🎥 Easy Rust playlist
 https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 
 Rust for OOP - Series Introduction
@@ -353,27 +336,23 @@ https://archive.fosdem.org/2018/schedule/event/rust_testing_mocking/attachments/
 
 https://github.com/bheisler/criterion.rs
 
-https://bheisler.github.io/criterion.rs/book/getting_started.html
-
 https://bheisler.github.io/criterion.rs/book/index.html
 
 
 ## Other Lists
 
-https://github.com/sger/RustBooks
-
 https://github.com/ctjhoa/rust-learning
 
 https://github.com/kud1ing/awesome-rust / https://project-awesome.org/rust-unofficial/awesome-rust
+
+Awesomo Rust
+https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md
 
 List of Rust books
 https://github.com/sger/RustBooks
 
 Not Rust specific, but: A public list of APIs
 https://github.com/n0shake/Public-APIs
-
-Awesomo Rust
-https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md
 
 
 ## Rust for X Programmers
@@ -393,6 +372,26 @@ https://beachape.com/blog/2017/05/24/rust-from-scala/
 ### 🐍 ... Python
 
 https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
+
+
+## 💾 Downloads
+
+Useful / interesting files, mirrored here lest they move or vanish.
+
+"Is Rust Used Safely by Software Developers"
+https://github.com/rsouth/rust-note-dump/blob/main/2007.00752.pdf
+
+"Safe Systems Programming in Rust"
+https://github.com/rsouth/rust-note-dump/blob/main/2021-rustbelt-cacm-final.pdf
+
+"What Every Programmer Should Know About Memory"
+https://github.com/rsouth/rust-note-dump/blob/main/cpumemory.pdf
+
+Packt "Learning Rust" Free eBook
+https://github.com/rsouth/rust-note-dump/blob/main/rust.pdf
+
+"Testing in Rust"
+https://github.com/rsouth/rust-note-dump/blob/main/testing_in_rust_by_donald_whyte.pdf
 
 
 # Dumping ground
