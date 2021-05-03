@@ -424,6 +424,9 @@ https://github.com/rsouth/rust-note-dump/blob/main/testing_in_rust_by_donald_why
 "Idiomatic Rust - Writing concise and elegant Rust code"
 https://github.com/rsouth/rust-reading-list/blob/main/Idiomatic_Rust_-_Matthias_Endler_-_FOSDEM_2018.pdf
 
+"Rust Container Cheat Sheet"
+https://github.com/rsouth/rust-reading-list/blob/main/Rust%20container%20cheat%20sheet.pdf
+
 ## Are we ... yet?
 
 List of "Are we ... yet" sites on Moz wiki
