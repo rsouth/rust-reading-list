@@ -456,38 +456,9 @@ https://llogiq.github.io/
 
 > Everything below here is uncategorised, dumped for later review
  
-https://github.com/ctjhoa/rust-learning
-ctjhoa/rust-learning
-A bunch of links to blog posts, articles, videos, etc for learning Rus
 
-https://github.com/matthieu-m/ghost-collections
-matthieu-m/ghost-collections - Safe collections written in stable Rust, based on GhostCell and StaticRc
 
-http://www.serpentine.com/criterion/tutorial.html
-
-https://docs.rs/slotmap/1.0.3/slotmap/
-slotmap
-
-https://www.christopherbiscardi.com/i-have-some-json-with-a-ton-of-test-cases-how-do-i-use-that-in-rust
-I have some JSON with a ton of test cases, how do I use that in Rust?
-
-https://lucumr.pocoo.org/
-
-https://without.boats/blog/
-
-https://hoverbear.org/
-A computer scientist working in open source towards a more hopeful future.
-
-https://steveklabnik.com/
-Steve Klabnik's personal website
-
-https://fasterthanli.me/
-amos loves to tinker
-
-https://blog.rust-lang.org/
-The Rust Programming Language Blog
-
-https://github.com/routerify/routerify
+#### uncategorised
 
 https://deterministic.space/high-performance-rust.html
 Cheap tricks for high-performance Rust
@@ -503,14 +474,8 @@ Fearless Concurrency with Rust | Rust Blog
 https://mudit.blog/rust-tips-and-tricks/
 Rust lang Tips and Tricks | Mudit Gupta's Blog
 
-https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
-My Key Learnings after 30,000 LOC in Rust
-
 https://users.rust-lang.org/t/mixed-up-borrowing/54288
 The Rust Programming Language Forum - Mixed up borrowing
-
-https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
-I want off Mr. Golang's Wild Ride
 
 https://cheats.rs/#memory-lifetimes
 
@@ -539,9 +504,6 @@ Announcing Tokio
 https://newrustacean.com/show_notes/e002/index.html
 show_notes::e002 - Rust
 
-https://github.com/smoltcp-rs/smoltcp
-smoltcp-rs/smoltcp - a smol tcp/ip stack
-
 http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/
 Rust Tidbits: What is a lang item?
 
@@ -553,12 +515,6 @@ What is ownership? - Learn about how memory is managed through ownership.
 https://thoughtram.io/rust-and-nickel/#/11
 Rust - Rethinking Systems Programming
 
-https://medium.com/learning-rust/rust-basics-e73304ab35c7
-RUST BASICS - "A language that doesn’t affect the way you think about programming, is not worth knowing."
-
-https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
-Gist - A collection of notable Rust blog posts
-
 http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/
 Modeling graphs in Rust using vector indices
 
@@ -566,28 +522,87 @@ https://tokio.rs/tokio/tutorial
 
 https://doc.rust-lang.org/1.0.0/style/ownership/builders.html
 
-https://docs.rs/imageproc/0.22.0/imageproc/
-imageproc - Rust
-
 https://doc.rust-lang.org/std/boxed/index.html
 std::boxed - A pointer type for heap allocation.
 
 http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
 
-https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
-My Key Learnings after 30,000 LOC in Rust
-
 https://doc.rust-lang.org/rust-by-example/fn/closures/closure_examples/iter_any.html
 Iterator::any - Rust By Example
-
-https://ryhl.io/
-Alice Ryhl – Personal website
 
 https://ryhl.io/blog/async-what-is-blocking/
 Async: What is blocking? – Alice Ryhl
 
+https://dhghomon.github.io/easy_rust/Chapter_8.html
+Type inference - Easy Rust
+
+https://danielkeep.github.io/itercheat_baked.html
+
+
+#### Crates
+
+https://docs.rs/imageproc/0.22.0/imageproc/
+imageproc - Rust
+
+https://github.com/smoltcp-rs/smoltcp
+smoltcp-rs/smoltcp - a smol tcp/ip stack
+
+https://github.com/routerify/routerify
+
+https://github.com/matthieu-m/ghost-collections
+matthieu-m/ghost-collections - Safe collections written in stable Rust, based on GhostCell and StaticRc
+
+criterion tut
+http://www.serpentine.com/criterion/tutorial.html
+
+https://docs.rs/slotmap/1.0.3/slotmap/
+slotmap
+
+
+#### Articles
+
 https://medium.com/swlh/why-you-should-learn-rust-df1caf11d911
 Why You Should Learn Rust
+
+https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
+My Key Learnings after 30,000 LOC in Rust
+
+https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
+My Key Learnings after 30,000 LOC in Rust
+
+https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
+I want off Mr. Golang's Wild Ride
+
+
+#### Blogs
+
+https://ryhl.io/
+Alice Ryhl – Personal website
+
+https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
+Gist - A collection of notable Rust blog posts
+
+https://lucumr.pocoo.org/
+
+https://without.boats/blog/
+
+https://hoverbear.org/
+A computer scientist working in open source towards a more hopeful future.
+
+https://steveklabnik.com/
+Steve Klabnik's personal website
+
+https://fasterthanli.me/
+amos loves to tinker
+
+https://blog.rust-lang.org/
+The Rust Programming Language Blog
+
+
+#### "Learning Rust" - other resources?
+
+https://medium.com/learning-rust/rust-basics-e73304ab35c7
+RUST BASICS - "A language that doesn’t affect the way you think about programming, is not worth knowing."
 
 https://stevedonovan.github.io/rust-gentle-intro/1-basics.html
 Basics - A Gentle Introduction to Rust - Introduction to the Rust language, standard library and ecosystem
@@ -598,13 +613,8 @@ Rust Programming Language Tutorials
 https://gist.github.com/rylev/f76b8e9567a722f1b157a69a4f98f1c1
 Gist - How to Learn Rust
 
-https://dhghomon.github.io/easy_rust/Chapter_8.html
-Type inference - Easy Rust
-
 https://serokell.io/blog/learn-rust
 Want to learn Rust but don't know where to start? In this article, we have gathered 17 awesome books, articles, videos, and other resources that will help you.
-
-https://danielkeep.github.io/itercheat_baked.html
 
 https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 A half-hour to learn Rust - fasterthanli.me
@@ -612,3 +622,11 @@ A half-hour to learn Rust - fasterthanli.me
 https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
 A Complete Resource for Rust Beginners
 
+https://github.com/ctjhoa/rust-learning
+A bunch of links to blog posts, articles, videos, etc for learning Rust
+
+
+#### Testing
+
+https://www.christopherbiscardi.com/i-have-some-json-with-a-ton-of-test-cases-how-do-i-use-that-in-rust
+I have some JSON with a ton of test cases, how do I use that in Rust?
