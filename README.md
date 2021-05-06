@@ -216,7 +216,7 @@ Everything you need to know about cross compiling Rust programs
 https://github.com/japaric/rust-cross
 
 
-## Other resources
+## 🗃️ Other resources
 
 Exercism.
 https://exercism.io/tracks/rust
@@ -610,5 +610,5 @@ https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 A half-hour to learn Rust - fasterthanli.me
 
 https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
-#A Complete Resource for Rust Beginners
+A Complete Resource for Rust Beginners
 
