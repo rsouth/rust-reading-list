@@ -100,6 +100,15 @@ https://www.worthe-it.co.za/blog/2018-09-23-performance-tuning-in-rust.html
 Optimizations: The speed size tradeoff - The Embedded Rust Book
 https://docs.rust-embedded.org/book/unsorted/speed-vs-size.html
 
+Cheap tricks for high-performance Rust
+https://deterministic.space/high-performance-rust.html
+
+Rust Optimization.md
+https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
+
+How to Write Fast Rust Code (⚠️ no https)
+http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
+
 https://www.youtube.com/results?search_query=mike+acton
 
 ### SIMD
@@ -214,6 +223,9 @@ https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destr
 
 Everything you need to know about cross compiling Rust programs
 https://github.com/japaric/rust-cross
+
+Fearless Concurrency with Rust | Rust Blog
+https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html
 
 
 ## 🗃️ Other resources
@@ -355,6 +367,9 @@ https://knowitlabs.no/rust-2020-testing-4ab3d80112ba
 
 https://archive.fosdem.org/2018/schedule/event/rust_testing_mocking/attachments/slides/2113/export/events/attachments/rust_testing_mocking/slides/2113/testing_in_rust_by_donald_whyte.pdf
 
+I have some JSON with a ton of test cases, how do I use that in Rust?
+https://www.christopherbiscardi.com/i-have-some-json-with-a-ton-of-test-cases-how-do-i-use-that-in-rust
+
 
 ## 📏 Benching
 
@@ -451,6 +466,28 @@ Nicholas Nethercote - personal site https://nnethercote.github.io/ and Moz blog 
 
 https://llogiq.github.io/
 
+Alice Ryhl – Personal website
+https://ryhl.io/
+
+Gist - A collection of notable Rust blog posts
+https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
+
+https://lucumr.pocoo.org/
+
+https://without.boats/blog/
+
+A computer scientist working in open source towards a more hopeful future.
+https://hoverbear.org/
+
+Steve Klabnik's personal website
+https://steveklabnik.com/
+
+amos loves to tinker
+https://fasterthanli.me/
+
+The Rust Programming Language Blog
+https://blog.rust-lang.org/
+
 
 # Dumping ground
 
@@ -460,16 +497,6 @@ https://llogiq.github.io/
 
 #### uncategorised
 
-https://deterministic.space/high-performance-rust.html
-Cheap tricks for high-performance Rust
-
-https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
-Rust Optimization.md
-
-http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
-
-https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html
-Fearless Concurrency with Rust | Rust Blog
 
 https://mudit.blog/rust-tips-and-tricks/
 Rust lang Tips and Tricks | Mudit Gupta's Blog
@@ -525,8 +552,6 @@ https://doc.rust-lang.org/1.0.0/style/ownership/builders.html
 https://doc.rust-lang.org/std/boxed/index.html
 std::boxed - A pointer type for heap allocation.
 
-http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
-
 https://doc.rust-lang.org/rust-by-example/fn/closures/closure_examples/iter_any.html
 Iterator::any - Rust By Example
 
@@ -574,30 +599,6 @@ https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
 I want off Mr. Golang's Wild Ride
 
 
-#### Blogs
-
-https://ryhl.io/
-Alice Ryhl – Personal website
-
-https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
-Gist - A collection of notable Rust blog posts
-
-https://lucumr.pocoo.org/
-
-https://without.boats/blog/
-
-https://hoverbear.org/
-A computer scientist working in open source towards a more hopeful future.
-
-https://steveklabnik.com/
-Steve Klabnik's personal website
-
-https://fasterthanli.me/
-amos loves to tinker
-
-https://blog.rust-lang.org/
-The Rust Programming Language Blog
-
 
 #### "Learning Rust" - other resources?
 
@@ -625,8 +626,3 @@ A Complete Resource for Rust Beginners
 https://github.com/ctjhoa/rust-learning
 A bunch of links to blog posts, articles, videos, etc for learning Rust
 
-
-#### Testing
-
-https://www.christopherbiscardi.com/i-have-some-json-with-a-ton-of-test-cases-how-do-i-use-that-in-rust
-I have some JSON with a ton of test cases, how do I use that in Rust?
