@@ -187,13 +187,11 @@ https://danielkeep.github.io/itercheat_baked.html
 
 ## 🗣️ Interesting Discussion
 
-https://news.ycombinator.com/item?id=24835357
 Assorted Thoughts on Zig and Rust
-https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/
+https://news.ycombinator.com/item?id=24835357 / https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/
 
-https://news.ycombinator.com/item?id=22818150
 I can't keep up with idiomatic Rust
-https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust/
+https://news.ycombinator.com/item?id=22818150 / https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust/
 
 
 ## 📰 Articles
