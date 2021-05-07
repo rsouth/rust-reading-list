@@ -185,7 +185,7 @@ https://doc.rust-lang.org/1.0.0/style/ownership/builders.html
 https://danielkeep.github.io/itercheat_baked.html
 
 
-## Interesting Discussion
+## 🗣️ Interesting Discussion
 
 https://news.ycombinator.com/item?id=24835357
 Assorted Thoughts on Zig and Rust
