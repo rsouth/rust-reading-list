@@ -131,6 +131,11 @@ https://www.youtube.com/watch?v=8M0QfLUDaaA
 https://docs.microsoft.com/en-us/learn/modules/rust-memory-management/1-what-is-ownership
 What is ownership? - Learn about how memory is managed through ownership.
 
+https://cheats.rs/#memory-lifetimes
+
+Understanding lifetimes in Rust - LogRocket Blog
+https://blog.logrocket.com/understanding-lifetimes-in-rust/
+
 
 
 ## 🧵 Async
@@ -178,6 +183,17 @@ Design Patterns https://rust-unofficial.github.io/patterns/ (https://github.com/
 https://doc.rust-lang.org/1.0.0/style/ownership/builders.html
 
 https://danielkeep.github.io/itercheat_baked.html
+
+
+## Interesting Discussion
+
+https://news.ycombinator.com/item?id=24835357
+Assorted Thoughts on Zig and Rust
+https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/
+
+https://news.ycombinator.com/item?id=22818150
+I can't keep up with idiomatic Rust
+https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust/
 
 
 ## 📰 Articles
@@ -282,6 +298,11 @@ https://thoughtram.io/rust-and-nickel/
 
 Modeling graphs in Rust using vector indices
 http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/
+
+🔊 Podcast https://newrustacean.com/ / https://newrustacean.com/show_notes/index.html
+
+Rust Tidbits: What is a lang item?
+http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/
 
 
 ## 🧰 Crates
@@ -545,44 +566,3 @@ https://blog.rust-lang.org/
 
 > Everything below here is uncategorised, dumped for later review
  
-
-
-#### uncategorised
-
-
-https://mudit.blog/rust-tips-and-tricks/
-Rust lang Tips and Tricks | Mudit Gupta's Blog
-
-https://users.rust-lang.org/t/mixed-up-borrowing/54288
-The Rust Programming Language Forum - Mixed up borrowing
-
-https://cheats.rs/#memory-lifetimes
-
-https://doc.rust-lang.org/edition-guide/rust-2018/simd-for-faster-computing.html
-SIMD for faster computing - The Edition Guide
-
-https://news.ycombinator.com/item?id=24835357
-Assorted Thoughts on Zig and Rust
-https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/
-
-https://dev.to/luzero/optimizing-your-code-48n1
-Optimizing your code - This is the second post about optimization, in the first one I tried to give you the big picture of m...
-
-https://news.ycombinator.com/item?id=22818150
-I can't keep up with idiomatic Rust
-https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust/
-
-https://speakerdeck.com/mre/idiomatic-rust-writing-concise-and-elegant-rust-code
-
-https://blog.logrocket.com/understanding-lifetimes-in-rust/
-Understanding lifetimes in Rust - LogRocket Blog
-
-https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34
-Announcing Tokio
-
-https://newrustacean.com/show_notes/e002/index.html
-show_notes::e002 - Rust
-
-http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/
-Rust Tidbits: What is a lang item?
-
