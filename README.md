@@ -125,8 +125,12 @@ http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/boo
 What is Ownership?
 https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html
 
-Learning Rust: Memory, Ownership and Borrowing
+🎥 Learning Rust: Memory, Ownership and Borrowing
 https://www.youtube.com/watch?v=8M0QfLUDaaA
+
+https://docs.microsoft.com/en-us/learn/modules/rust-memory-management/1-what-is-ownership
+What is ownership? - Learn about how memory is managed through ownership.
+
 
 
 ## 🧵 Async
@@ -171,6 +175,10 @@ https://github.com/rustomax/rust-iterators
 
 Design Patterns https://rust-unofficial.github.io/patterns/ (https://github.com/rust-unofficial/patterns)
 
+https://doc.rust-lang.org/1.0.0/style/ownership/builders.html
+
+https://danielkeep.github.io/itercheat_baked.html
+
 
 ## 📰 Articles
 
@@ -201,6 +209,15 @@ The Speed of Rust vs C
 https://kornel.ski/rust-c-speed
 
 https://brson.github.io/fireflowers/
+
+https://medium.com/swlh/why-you-should-learn-rust-df1caf11d911
+Why You Should Learn Rust
+
+https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
+My Key Learnings after 30,000 LOC in Rust
+
+https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
+I want off Mr. Golang's Wild Ride
 
 
 ## 🎶 Useful notes
@@ -234,7 +251,7 @@ Exercism.
 https://exercism.io/tracks/rust
 
 How to Learn Rust
-https://gist.github.com/rylev/f76b8e9567a722f1b157a69a4f98f1c1#:~:text=The%20best%20way%20to%20learn,to%20more%20real%20world%20projects.
+https://gist.github.com/rylev/f76b8e9567a722f1b157a69a4f98f1c1
 
 https://caniuse.rs/
 
@@ -259,6 +276,12 @@ https://danielkeep.github.io/tlborm/book/index.html
 
 Software Projects. Code Samples. Software Links
 https://jimfawcett.github.io/SiteMap.html
+
+Rust - Rethinking Systems Programming
+https://thoughtram.io/rust-and-nickel/
+
+Modeling graphs in Rust using vector indices
+http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/
 
 
 ## 🧰 Crates
@@ -299,6 +322,8 @@ https://actix.rs/book/actix/sec-1-getting-started.html
 A runtime for writing reliable network applications without compromising speed.
 https://docs.rs/tokio/1.4.0/tokio/
 
+https://tokio.rs/tokio/tutorial
+
 ### GUI
 
 https://github.com/linebender/druid
@@ -313,7 +338,7 @@ https://www.areweguiyet.com/
 
 https://serde.rs/attr-default.html
 
-###
+### rayon
 
 https://github.com/rayon-rs/rayon
 
@@ -327,6 +352,22 @@ https://crates.io/crates/async-trait
 
 Anyhow - Flexible concrete Error type built on std::error::Error
 https://lib.rs/crates/anyhow
+
+imageproc
+https://docs.rs/imageproc/0.22.0/imageproc/
+
+smoltcp-rs/smoltcp - a smol tcp/ip stack
+https://github.com/smoltcp-rs/smoltcp
+
+https://github.com/routerify/routerify
+
+matthieu-m/ghost-collections - Safe collections written in stable Rust, based on GhostCell and StaticRc
+https://github.com/matthieu-m/ghost-collections
+
+slotmap
+https://docs.rs/slotmap/1.0.3/slotmap/
+
+
 
 
 ## Series
@@ -360,6 +401,15 @@ https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 
 https://www.ralfj.de/projects/rust-101/main.html
 
+https://serokell.io/blog/learn-rust
+Want to learn Rust but don't know where to start? In this article, we have gathered 17 awesome books, articles, videos, and other resources that will help you.
+
+https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+A half-hour to learn Rust - fasterthanli.me
+
+https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
+A Complete Resource for Rust Beginners
+
 
 ## ✔️ Testing
 
@@ -378,6 +428,8 @@ https://www.christopherbiscardi.com/i-have-some-json-with-a-ton-of-test-cases-ho
 https://github.com/bheisler/criterion.rs
 
 https://bheisler.github.io/criterion.rs/book/index.html
+
+http://www.serpentine.com/criterion/tutorial.html
 
 
 ## Other Lists
@@ -533,96 +585,4 @@ show_notes::e002 - Rust
 
 http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/
 Rust Tidbits: What is a lang item?
-
-https://github.com/silvia-odwyer/photon/native-tutorial/
-
-https://docs.microsoft.com/en-us/learn/modules/rust-memory-management/1-what-is-ownership
-What is ownership? - Learn about how memory is managed through ownership.
-
-https://thoughtram.io/rust-and-nickel/#/11
-Rust - Rethinking Systems Programming
-
-http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/
-Modeling graphs in Rust using vector indices
-
-https://tokio.rs/tokio/tutorial
-
-https://doc.rust-lang.org/1.0.0/style/ownership/builders.html
-
-https://doc.rust-lang.org/std/boxed/index.html
-std::boxed - A pointer type for heap allocation.
-
-https://doc.rust-lang.org/rust-by-example/fn/closures/closure_examples/iter_any.html
-Iterator::any - Rust By Example
-
-https://ryhl.io/blog/async-what-is-blocking/
-Async: What is blocking? – Alice Ryhl
-
-https://dhghomon.github.io/easy_rust/Chapter_8.html
-Type inference - Easy Rust
-
-https://danielkeep.github.io/itercheat_baked.html
-
-
-#### Crates
-
-https://docs.rs/imageproc/0.22.0/imageproc/
-imageproc - Rust
-
-https://github.com/smoltcp-rs/smoltcp
-smoltcp-rs/smoltcp - a smol tcp/ip stack
-
-https://github.com/routerify/routerify
-
-https://github.com/matthieu-m/ghost-collections
-matthieu-m/ghost-collections - Safe collections written in stable Rust, based on GhostCell and StaticRc
-
-criterion tut
-http://www.serpentine.com/criterion/tutorial.html
-
-https://docs.rs/slotmap/1.0.3/slotmap/
-slotmap
-
-
-#### Articles
-
-https://medium.com/swlh/why-you-should-learn-rust-df1caf11d911
-Why You Should Learn Rust
-
-https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
-My Key Learnings after 30,000 LOC in Rust
-
-https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
-My Key Learnings after 30,000 LOC in Rust
-
-https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
-I want off Mr. Golang's Wild Ride
-
-
-
-#### "Learning Rust" - other resources?
-
-https://medium.com/learning-rust/rust-basics-e73304ab35c7
-RUST BASICS - "A language that doesn’t affect the way you think about programming, is not worth knowing."
-
-https://stevedonovan.github.io/rust-gentle-intro/1-basics.html
-Basics - A Gentle Introduction to Rust - Introduction to the Rust language, standard library and ecosystem
-
-https://learning-rust.github.io/index.html
-Rust Programming Language Tutorials
-
-https://gist.github.com/rylev/f76b8e9567a722f1b157a69a4f98f1c1
-Gist - How to Learn Rust
-
-https://serokell.io/blog/learn-rust
-Want to learn Rust but don't know where to start? In this article, we have gathered 17 awesome books, articles, videos, and other resources that will help you.
-
-https://fasterthanli.me/articles/a-half-hour-to-learn-rust
-A half-hour to learn Rust - fasterthanli.me
-
-https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
-A Complete Resource for Rust Beginners
-
-https://github.com/ctjhoa/rust-learning
-A bunch of links to blog posts, articles, videos, etc for learning Rust
 
