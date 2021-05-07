@@ -1,6 +1,8 @@
-# Rust 🦀 Reading List
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/292208/117505269-ad675280-af7b-11eb-9a43-2570669bec48.png">
+</p>
 
-Collection of hopefully useful, semi-organised links as a reference from my first few weeks with Rust. Happy to accept PRs for any other useful links!
+🦀 Collection of hopefully useful, _semi-organised_ links as a reference from my first few weeks with Rust. Happy to accept PRs for any other useful links!
 
 ## Contents
 
