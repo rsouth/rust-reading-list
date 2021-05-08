@@ -38,9 +38,7 @@
 
 > **The Book** and other useful reference material.
 
-💥 [The Book](https://doc.rust-lang.org/book/), ℹ️ [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/), 📖 [std lib](https://doc.rust-lang.org/std/index.html), ⁉️ [Compiler Error Index](https://doc.rust-lang.org/error-index.html) and loads more.
-
-[rust-lang.org's Learn Rust](https://www.rust-lang.org/learn)
+💥 [The Book](https://doc.rust-lang.org/book/), ℹ️ [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/), 📖 [std lib](https://doc.rust-lang.org/std/index.html), ⁉️ [Compiler Error Index](https://doc.rust-lang.org/error-index.html) and loads more starting from [rust-lang.org's Learn Rust](https://www.rust-lang.org/learn)
 
 🙏 [The Rust Book](https://doc.rust-lang.org/book/) / [Nightly](https://doc.rust-lang.org/nightly/book/)
 
@@ -61,79 +59,58 @@ Optimizing a Rust Codebase
  - [Part 1: Profiling and Benchmarking](https://dev.to/luzero/profiling-and-benchmarking-167m)
  - [Part 2: Optimizing your Code](https://dev.to/luzero/optimizing-your-code-48n1)
 
-From 46s to 5s - Optimizing a 350 Line Raytracer in Rust
-https://blog.usejournal.com/from-48s-to-5s-optimizing-a-350-line-pathtracer-in-rust-191ab4a1a412
+[From 46s to 5s - Optimizing a 350 Line Raytracer in Rust](https://blog.usejournal.com/from-48s-to-5s-optimizing-a-350-line-pathtracer-in-rust-191ab4a1a412)
 
-Acheiving warp speed with Rust
-http://troubles.md/rust-optimization/
+[Acheiving warp speed with Rust](http://troubles.md/rust-optimization/)
 
-"What The Hardware Does" is not What Your Program Does
-https://www.ralfj.de/blog/2019/07/14/uninit.html
+["What The Hardware Does" is not What Your Program Does](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 
-🎥 Scott Meyers: Cpu Caches and Why You Care
-https://www.youtube.com/watch?v=WDIkqP4JbkE
+🎥 [Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
 
-Branch prediction - Why is processing a sorted array faster than processing an unsorted array?
-https://stackoverflow.com/a/11227902
+[Branch prediction - Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/a/11227902)
 
-Where should I start if I want to squeeze out as much performance as I can from my rust code?
-https://www.reddit.com/r/rust/comments/bb5lnj/where_should_i_start_if_i_want_to_squeeze_out_as/
+[Where should I start if I want to squeeze out as much performance as I can from my rust code?](https://www.reddit.com/r/rust/comments/bb5lnj/where_should_i_start_if_i_want_to_squeeze_out_as/)
 
-Fastware Workshop
-http://troubles.md/posts/rustfest-2018-workshop/
+[Fastware Workshop](http://troubles.md/posts/rustfest-2018-workshop/)
 
-Top-Down performance analysis methodology
-https://dendibakh.github.io/blog/2019/02/09/Top-Down-performance-analysis-methodology
+[Top-Down performance analysis methodology](https://dendibakh.github.io/blog/2019/02/09/Top-Down-performance-analysis-methodology)
 
-https://llogiq.github.io/2017/06/01/perf-pitfalls.html
+[Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
 
-https://github.com/dgryski/go-perfbook
+[go-perfbook](https://github.com/dgryski/go-perfbook) - Largely applicable to any language
 
-LLVM reference and Godbolt Compiler Explorer
-http://llvm.org/docs/LangRef.html && https://rust.godbolt.org/
+[LLVM reference](http://llvm.org/docs/LangRef.html) && [Godbolt Compiler Explorer](https://rust.godbolt.org/)
 
-Performance Tuning In Rust Using Benchmarking And Perf
-https://www.worthe-it.co.za/blog/2018-09-23-performance-tuning-in-rust.html
+[Performance Tuning In Rust Using Benchmarking And Perf](https://www.worthe-it.co.za/blog/2018-09-23-performance-tuning-in-rust.html)
 
-Optimizations: The speed size tradeoff - The Embedded Rust Book
-https://docs.rust-embedded.org/book/unsorted/speed-vs-size.html
+[The Embedded Rust Book - Optimizations: The speed size tradeoff](https://docs.rust-embedded.org/book/unsorted/speed-vs-size.html)
 
-Cheap tricks for high-performance Rust
-https://deterministic.space/high-performance-rust.html
+[Cheap tricks for high-performance Rust](https://deterministic.space/high-performance-rust.html)
 
-Rust Optimization.md
-https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1
+[Rust Optimization.md](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
 
-How to Write Fast Rust Code (⚠️ no https)
-http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
+[How to Write Fast Rust Code](http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html)  (⚠️ no https)
 
 https://www.youtube.com/results?search_query=mike+acton
 
 ### SIMD
 
-SIMD for faster computing
-https://doc.rust-lang.org/edition-guide/rust-2018/simd-for-faster-computing.html
+[SIMD for faster computing](https://doc.rust-lang.org/edition-guide/rust-2018/simd-for-faster-computing.html)
 
 
 ## 🔄 Borrowing and Lifetimes etc
 
-References and Borrowing
-http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/references-and-borrowing.html
+[References and Borrowing](http://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/references-and-borrowing.html)
 
-What is Ownership?
-https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html
+[What is Ownership?](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
 
-🎥 Learning Rust: Memory, Ownership and Borrowing
-https://www.youtube.com/watch?v=8M0QfLUDaaA
+🎥 [Learning Rust: Memory, Ownership and Borrowing](https://www.youtube.com/watch?v=8M0QfLUDaaA)
 
-https://docs.microsoft.com/en-us/learn/modules/rust-memory-management/1-what-is-ownership
-What is ownership? - Learn about how memory is managed through ownership.
+[What is ownership? - Learn about how memory is managed through ownership](https://docs.microsoft.com/en-us/learn/modules/rust-memory-management/1-what-is-ownership) From Microsoft's "Take your First Steps with Rust"
 
-https://cheats.rs/#memory-lifetimes
+[Memory & Lifetimes Visual Representation](https://cheats.rs/#memory-lifetimes)
 
-Understanding lifetimes in Rust - LogRocket Blog
-https://blog.logrocket.com/understanding-lifetimes-in-rust/
-
+[LogRocket Blog - Understanding lifetimes in Rust](https://blog.logrocket.com/understanding-lifetimes-in-rust/)
 
 
 ## 🧵 Async
