@@ -102,108 +102,84 @@ https://www.youtube.com/results?search_query=mike+acton
 
 ## 🦀 Idiomatic Rust
 
-https://cheats.rs/#idiomatic-rust
+[Idiomatic Rust Tips - Coming from Java / C](https://cheats.rs/#idiomatic-rust) - the [Rust Language Cheat Sheet](https://cheats.rs/) has a lot of useful references
 
-Thinking In Rust Part 1: Types
-https://llblumire.co.uk/thinking-in-rust-part-1-types/
+[Thinking In Rust Part 1: Types](https://llblumire.co.uk/thinking-in-rust-part-1-types/)
 
-Error Handling in Rust - Andrew Gallant's Blog
-https://blog.burntsushi.net/rust-error-handling/
+[Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/)
 
-Rust lang Tips and Tricks | Mudit Gupta's Blog
-https://mudit.blog/rust-tips-and-tricks/
+[Rust lang Tips and Tricks](https://mudit.blog/rust-tips-and-tricks/)
 
-Unwrap and Expect
-https://learning-rust.github.io/docs/e4.unwrap_and_expect.html
+[Unwrap and Expect](https://learning-rust.github.io/docs/e4.unwrap_and_expect.html)
 
-https://speakerdeck.com/mre/idiomatic-rust-writing-concise-and-elegant-rust-code
+[Writing Concise and Elegant Rust Code](https://speakerdeck.com/mre/idiomatic-rust-writing-concise-and-elegant-rust-code)
 
-https://learning-rust.github.io/docs/e3.option_and_result.html
+[`Option` and `Result`](https://learning-rust.github.io/docs/e3.option_and_result.html)
 
-https://llogiq.github.io/2015/07/30/traits.html
+[Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html)
 
-Basic Rust iterator usage
-https://github.com/rustomax/rust-iterators
+[Basic Rust iterator usage](https://github.com/rustomax/rust-iterators)
 
-Design Patterns https://rust-unofficial.github.io/patterns/ (https://github.com/rust-unofficial/patterns)
+[Design Patterns](https://rust-unofficial.github.io/patterns/) ([:octocat: GitHub](https://github.com/rust-unofficial/patterns))
 
-https://doc.rust-lang.org/1.0.0/style/ownership/builders.html
+[Builder Pattern](https://doc.rust-lang.org/1.0.0/style/ownership/builders.html)
 
-https://danielkeep.github.io/itercheat_baked.html
+[Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
 
 
 ## 🗣️ Interesting Discussion
 
-Assorted Thoughts on Zig and Rust
-https://news.ycombinator.com/item?id=24835357 / https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/
+[Hacker News - Assorted Thoughts on Zig and Rust](https://news.ycombinator.com/item?id=24835357) / [Article](https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
 
-I can't keep up with idiomatic Rust
-https://news.ycombinator.com/item?id=22818150 / https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust/
+[Hacker News - I can't keep up with idiomatic Rust](https://news.ycombinator.com/item?id=22818150) / [Article](https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust/)
 
 
 ## 📰 Articles
 
-Learning Rust by solving all 189 problems from the “Cracking the Coding Interview” book
-https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738
+[Learning Rust by solving all 189 problems from the “Cracking the Coding Interview” book](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
 
-Object-Oriented Programming in Rust
-https://blog.devgenius.io/object-oriented-programming-in-rust-691baf4d2996
+[Object-Oriented Programming in Rust](https://blog.devgenius.io/object-oriented-programming-in-rust-691baf4d2996)
 
-So you want to write object oriented Rust
-https://blog.darrien.dev/posts/so-you-want-to-object/
+[So you want to write object oriented Rust](https://blog.darrien.dev/posts/so-you-want-to-object/)
 
-These Modern Programming Languages Will Make You Suffer
-https://betterprogramming.pub/modern-languages-suck-ad21cbc8a57c
+[These Modern Programming Languages Will Make You Suffer](https://betterprogramming.pub/modern-languages-suck-ad21cbc8a57c)
 
-https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html
+[Rust - A Unique Perspective](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
 
-Foreign function interface (FFI) - Rust Design Patterns
-https://rust-unofficial.github.io/patterns/idioms/ffi/intro.html
+[Foreign function interface (FFI) - Rust Design Patterns](https://rust-unofficial.github.io/patterns/idioms/ffi/intro.html)
 
-Building a Rust Web Browser
-https://joshondesign.com/2020/03/10/rust_minibrowser
+[Building a Rust Web Browser](https://joshondesign.com/2020/03/10/rust_minibrowser)
 
-🎥 Is It Time to Rewrite the Operating System in Rust?
-https://www.youtube.com/watch?t=2457&v=HgtRAbE1nBM&feature=youtu.be
+🎥 [Is It Time to Rewrite the Operating System in Rust?](https://www.youtube.com/watch?t=2457&v=HgtRAbE1nBM&feature=youtu.be)
 
-The Speed of Rust vs C
-https://kornel.ski/rust-c-speed
+[The Speed of Rust vs C](https://kornel.ski/rust-c-speed)
 
-https://brson.github.io/fireflowers/
+[The Rust Programming Language in the words of its practitioners](https://brson.github.io/fireflowers/)
 
-https://medium.com/swlh/why-you-should-learn-rust-df1caf11d911
-Why You Should Learn Rust
+[Why You Should Learn Rust](https://medium.com/swlh/why-you-should-learn-rust-df1caf11d911)
 
-https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19
-My Key Learnings after 30,000 LOC in Rust
+[My Key Learnings after 30,000 LOC in Rust](https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19)
 
-https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
-I want off Mr. Golang's Wild Ride
+[I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
 
 
 ## 🎶 Useful notes
 
-Stack Overflow - What is the difference between iter and into_iter?
-https://stackoverflow.com/questions/34733811/what-is-the-difference-between-iter-and-into-iter
-https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html
+💬 [Stack Overflow - What is the difference between iter and into_iter?](https://stackoverflow.com/questions/34733811/what-is-the-difference-between-iter-and-into-iter) / 🔗 [Link](https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html)
 
-Rust modules vs files
-https://fasterthanli.me/articles/rust-modules-vs-files
+[Rust modules vs files](https://fasterthanli.me/articles/rust-modules-vs-files)
 
-Stack Overflow - Rust package with both a library and a binary?
-https://stackoverflow.com/questions/26946646/rust-package-with-both-a-library-and-a-binary
+💬 [Stack Overflow - Rust package with both a library and a binary?](https://stackoverflow.com/questions/26946646/rust-package-with-both-a-library-and-a-binary)
 
-https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/
+[Are we observable yet? An introduction to Rust telemetry](https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/)
 
 https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
 
 https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destructure_structures.html
 
-Everything you need to know about cross compiling Rust programs
-https://github.com/japaric/rust-cross
+[Everything you need to know about cross compiling Rust programs](https://github.com/japaric/rust-cross)
 
-Fearless Concurrency with Rust | Rust Blog
-https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html
+[Fearless Concurrency with Rust | Rust Blog](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
 
 
 ## 🗃️ Other resources
