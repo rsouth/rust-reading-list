@@ -6,31 +6,7 @@
 
 ## Contents
 
-- [🌟 References](#-references)
-- [🚀 Performance](#-performance)
-  * [SIMD](#simd)
-- [🔄 Borrowing and Lifetimes etc](#-borrowing-and-lifetimes-etc)
-- [🔀 Async](#-async)
-- [🦀 Idiomatic Rust](#-idiomatic-rust)
-- [📰 Articles](#-articles)
-- [🎶 Useful notes](#-useful-notes)
-- [Other resources](#other-resources)
-- [🧰 Crates](#-crates)
-  * [Actix](#actix)
-  * [Tokio](#tokio)
-  * [GUI](#gui)
-  * [Serde](#serde)
-  * [Misc](#misc)
-- [Series](#series)
-- [✔️ Testing](#-testing)
-- [📏 Benching](#-benching)
-  * [Criterion](#criterion)
-- [Other Lists](#other-lists)
-- [Rust for X Programmers](#rust-for-x-programmers)
-  * [☕ ... Java](#--java)
-  * [... Scala](#-scala)
-  * [🐍 ... Python](#--python)
-- [💾 Downloads](#-downloads)
+_removed while re-shuffling the page_
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> :thumbsup:
 
@@ -115,17 +91,13 @@ https://www.youtube.com/results?search_query=mike+acton
 
 ## 🧵 Async
 
-https://tokio.rs/blog/2020-04-preemption#a-note-on-blocking
+[Carl Lerche - Reducing tail latencies with automatic cooperative task yielding](https://tokio.rs/blog/2020-04-preemption)
 
-Async: What is blocking? – Alice Ryhl (& Alice and other Tokio dev writing in general are must-reads for async)
-https://ryhl.io/blog/async-what-is-blocking/
+[Alice Ryhl - Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
 
-https://tokio.rs/tokio/tutorial/spawning#concurrency
+[SO Question - What is the difference between `then`, `and_then` and `or_else` in Rust futures?](https://stackoverflow.com/questions/55552413/what-is-the-difference-between-then-and-then-and-or-else-in-rust-futures)
 
-https://stackoverflow.com/questions/55552413/what-is-the-difference-between-then-and-then-and-or-else-in-rust-futures
-
-Futures Explained in 200 Lines of Rust
-https://cfsamson.github.io/books-futures-explained/
+[Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 
 
 ## 🦀 Idiomatic Rust
