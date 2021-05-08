@@ -182,48 +182,42 @@ https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destr
 [Fearless Concurrency with Rust | Rust Blog](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
 
 
+## 💪 Exercises
+
+[Exercism 👻](https://exercism.io/tracks/rust)
+
+[Advent of Code 🎄](https://adventofcode.com/)
+
+
 ## 🗃️ Other resources
 
-Exercism.
-https://exercism.io/tracks/rust
-
-How to Learn Rust
-https://gist.github.com/rylev/f76b8e9567a722f1b157a69a4f98f1c1
+[How to Learn Rust](https://gist.github.com/rylev/f76b8e9567a722f1b157a69a4f98f1c1)
 
 https://caniuse.rs/
 
-Rust container cheat sheet
-https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p
+[Rust container cheat sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p)
 
-Easy Rust book
-https://dhghomon.github.io/easy_rust/Chapter_13.html
+[Easy Rust book](https://dhghomon.github.io/easy_rust/Chapter_13.html)
 
-Rust Programming Language Tutorials
-https://medium.com/learning-rust
+[Rust Programming Language Tutorials](https://medium.com/learning-rust)
 
 https://learning-rust.github.io/
 
 https://carols10cents.github.io/rust-conversion-reference/
 
-Rust Omnibus (FFI) How to use Rust code in other languages
-https://jakegoulding.com/rust-ffi-omnibus/
-        
-The Little Book of Rust Macros
-https://danielkeep.github.io/tlborm/book/index.html
+[Rust Omnibus (FFI) How to use Rust code in other languages](https://jakegoulding.com/rust-ffi-omnibus/)
 
-Software Projects. Code Samples. Software Links
-https://jimfawcett.github.io/SiteMap.html
+[The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
 
-Rust - Rethinking Systems Programming
-https://thoughtram.io/rust-and-nickel/
+[Software Projects. Code Samples. Software Links](https://jimfawcett.github.io/SiteMap.html)
 
-Modeling graphs in Rust using vector indices
-http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/
+[Rust - Rethinking Systems Programming](https://thoughtram.io/rust-and-nickel/)
+
+[Modeling graphs in Rust using vector indices](http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/)
 
 🔊 Podcast https://newrustacean.com/ / https://newrustacean.com/show_notes/index.html
 
-Rust Tidbits: What is a lang item?
-http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/
+[Rust Tidbits: What is a lang item?](http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/)
 
 
 ## 🧰 Crates
@@ -231,6 +225,8 @@ http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/
 > TODO Organise crates by functional areas - use this space to provide useful links relating to great crates, not just linking to the crate.
 
 ### Actix
+
+[Website](https://actix.rs/) / [:octocat: GitHub](https://github.com/actix)
 
 https://alinex.gitlab.io/rust/crates/actix/
 
@@ -314,43 +310,31 @@ https://docs.rs/slotmap/1.0.3/slotmap/
 
 ## Series
 
-🎥 Doug Milford's Rust series
-https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5
+🎥 [Doug Milford's Rust series](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
 
-🎥 Easy Rust playlist
-https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
+🎥 [Easy Rust playlist](https://www.youtube.com/watch?v=-lYeJeQ11OI&list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
 
-Rust for OOP - Series Introduction
-https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop
+[Rust for OOP - Series Introduction](https://oribenshir.github.io/afternoon_rusting/blog/rust-for-oop)
 
-Introduction to the Rust language, standard library and ecosystem
-https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html
+[Introduction to the Rust language, standard library and ecosystem](https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html)
 
-Learning Rust With Entirely Too Many Linked Lists
-https://rust-unofficial.github.io/too-many-lists/
+[Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
-Rust Programming Language Tutorial – How to Build a To-Do List App
-https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/amp/
+[Rust Programming Language Tutorial – How to Build a To-Do List App](https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/amp/)
 
-All the resources you need to give yourself a world class computer science education
-https://teachyourselfcs.com/
+[All the resources you need to give yourself a world class computer science education](https://teachyourselfcs.com/)
 
-Learn Rust in Y Minutes
-https://learnxinyminutes.com/docs/rust/
+[Learn Rust in Y Minutes](https://learnxinyminutes.com/docs/rust/)
 
-Microsoft's Rust tutorials
-https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
+[Microsoft's Rust tutorials](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
 
 https://www.ralfj.de/projects/rust-101/main.html
 
-https://serokell.io/blog/learn-rust
-Want to learn Rust but don't know where to start? In this article, we have gathered 17 awesome books, articles, videos, and other resources that will help you.
+[Want to learn Rust but don't know where to start?](https://serokell.io/blog/learn-rust)
 
-https://fasterthanli.me/articles/a-half-hour-to-learn-rust
-A half-hour to learn Rust - fasterthanli.me
+[A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
-https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
-A Complete Resource for Rust Beginners
+[A Complete Resource for Rust Beginners](https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba)
 
 
 ## ✔️ Testing
@@ -359,8 +343,7 @@ https://knowitlabs.no/rust-2020-testing-4ab3d80112ba
 
 https://archive.fosdem.org/2018/schedule/event/rust_testing_mocking/attachments/slides/2113/export/events/attachments/rust_testing_mocking/slides/2113/testing_in_rust_by_donald_whyte.pdf
 
-I have some JSON with a ton of test cases, how do I use that in Rust?
-https://www.christopherbiscardi.com/i-have-some-json-with-a-ton-of-test-cases-how-do-i-use-that-in-rust
+[I have some JSON with a ton of test cases, how do I use that in Rust?](https://www.christopherbiscardi.com/i-have-some-json-with-a-ton-of-test-cases-how-do-i-use-that-in-rust)
 
 
 ## 📏 Benching
@@ -380,14 +363,11 @@ https://github.com/ctjhoa/rust-learning
 
 https://github.com/kud1ing/awesome-rust / https://project-awesome.org/rust-unofficial/awesome-rust
 
-Awesomo Rust
-https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md
+[Awesomo Rust](https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md)
 
-📘 List of Rust books
-https://github.com/sger/RustBooks
+📘 [List of Rust books](https://github.com/sger/RustBooks)
 
-Not Rust specific, but: A public list of APIs
-https://github.com/n0shake/Public-APIs
+Not Rust specific, but: [A public list of APIs](https://github.com/n0shake/Public-APIs)
 
 
 ## Rust for ... Programmers
@@ -413,33 +393,25 @@ https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 
 ## 💾 Downloads
 
-Useful / interesting files, mirrored here lest they move or vanish.
+> Useful / interesting files, mirrored here lest they move or vanish.
 
-"Is Rust Used Safely by Software Developers"
-https://github.com/rsouth/rust-note-dump/blob/main/2007.00752.pdf
+PDF ["Is Rust Used Safely by Software Developers"](https://github.com/rsouth/rust-note-dump/blob/main/2007.00752.pdf)
 
-"Safe Systems Programming in Rust"
-https://github.com/rsouth/rust-note-dump/blob/main/2021-rustbelt-cacm-final.pdf
+PDF ["Safe Systems Programming in Rust"](https://github.com/rsouth/rust-note-dump/blob/main/2021-rustbelt-cacm-final.pdf)
 
-"What Every Programmer Should Know About Memory"
-https://github.com/rsouth/rust-note-dump/blob/main/cpumemory.pdf
+PDF ["What Every Programmer Should Know About Memory"](https://github.com/rsouth/rust-note-dump/blob/main/cpumemory.pdf)
 
-Packt "Learning Rust" Free eBook
-https://github.com/rsouth/rust-note-dump/blob/main/rust.pdf
+PDF [Packt "Learning Rust" Free eBook](https://github.com/rsouth/rust-note-dump/blob/main/rust.pdf)
 
-"Testing in Rust"
-https://github.com/rsouth/rust-note-dump/blob/main/testing_in_rust_by_donald_whyte.pdf
+PDF ["Testing in Rust"](https://github.com/rsouth/rust-note-dump/blob/main/testing_in_rust_by_donald_whyte.pdf)
 
-"Idiomatic Rust - Writing concise and elegant Rust code"
-https://github.com/rsouth/rust-reading-list/blob/main/Idiomatic_Rust_-_Matthias_Endler_-_FOSDEM_2018.pdf
+PDF ["Idiomatic Rust - Writing concise and elegant Rust code"](https://github.com/rsouth/rust-reading-list/blob/main/Idiomatic_Rust_-_Matthias_Endler_-_FOSDEM_2018.pdf)
 
-"Rust Container Cheat Sheet"
-https://github.com/rsouth/rust-reading-list/blob/main/Rust%20container%20cheat%20sheet.pdf
+PDF ["Rust Container Cheat Sheet"](https://github.com/rsouth/rust-reading-list/blob/main/Rust%20container%20cheat%20sheet.pdf)
 
 ## Are we ... yet?
 
-List of "Are we ... yet" sites on Moz wiki
-https://wiki.mozilla.org/Areweyet
+[List of "Are we ... yet" sites on Moz wiki](https://wiki.mozilla.org/Areweyet)
 
  ... 👾
 https://arewegameyet.rs/
@@ -460,27 +432,21 @@ Nicholas Nethercote - personal site https://nnethercote.github.io/ and Moz blog 
 
 https://llogiq.github.io/
 
-Alice Ryhl – Personal website
-https://ryhl.io/
+[Alice Ryhl – Personal website](https://ryhl.io/)
 
-Gist - A collection of notable Rust blog posts
-https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e
+[A collection of notable Rust blog posts](https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e)
 
 https://lucumr.pocoo.org/
 
 https://without.boats/blog/
 
-A computer scientist working in open source towards a more hopeful future.
-https://hoverbear.org/
+[A computer scientist working in open source towards a more hopeful future](https://hoverbear.org/)
 
-Steve Klabnik's personal website
-https://steveklabnik.com/
+[Steve Klabnik's personal website](https://steveklabnik.com/)
 
-amos loves to tinker
-https://fasterthanli.me/
+[amos loves to tinker](https://fasterthanli.me/)
 
-The Rust Programming Language Blog
-https://blog.rust-lang.org/
+[The Rust Programming Language Blog](https://blog.rust-lang.org/)
 
 
 # Dumping ground
