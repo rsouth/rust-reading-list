@@ -219,6 +219,8 @@ https://carols10cents.github.io/rust-conversion-reference/
 
 [Rust Tidbits: What is a lang item?](http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/)
 
+https://hackr.io/tutorials/learn-rust
+
 
 ## 🧰 Crates
 
