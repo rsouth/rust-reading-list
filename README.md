@@ -38,11 +38,11 @@
 
 > **The Book** and other useful reference material.
 
-Entrypoint for various rust-lang documentation: [The Book](https://doc.rust-lang.org/book/), [RBE](https://doc.rust-lang.org/stable/rust-by-example/), [std lib](https://doc.rust-lang.org/std/index.html), [Compiler Error Index](https://doc.rust-lang.org/error-index.html) and loads more.
-https://www.rust-lang.org/learn
+💥 [The Book](https://doc.rust-lang.org/book/), ℹ️ [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/), 📖 [std lib](https://doc.rust-lang.org/std/index.html), ⁉️ [Compiler Error Index](https://doc.rust-lang.org/error-index.html) and loads more.
 
-🙏 The Rust Book
-https://doc.rust-lang.org/book/ / Nightly: https://doc.rust-lang.org/nightly/book/
+[rust-lang.org's Learn Rust](https://www.rust-lang.org/learn)
+
+🙏 [The Rust Book](https://doc.rust-lang.org/book/) / [Nightly](https://doc.rust-lang.org/nightly/book/)
 
 [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - Collection of useful Rust code examples
 
