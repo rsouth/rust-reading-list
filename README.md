@@ -44,28 +44,24 @@ https://www.rust-lang.org/learn
 🙏 The Rust Book
 https://doc.rust-lang.org/book/ / Nightly: https://doc.rust-lang.org/nightly/book/
 
-Rust Bookbook - Collection of useful Rust code examples
-https://rust-lang-nursery.github.io/rust-cookbook/
+[Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - Collection of useful Rust code examples
 
-Rust by Example (RBE) - Collection of runnable examples that illustrate various Rust concepts and standard libraries
-https://doc.rust-lang.org/stable/rust-by-example/
+[Rust by Example (RBE)](https://doc.rust-lang.org/stable/rust-by-example/) - Collection of runnable examples that illustrate various Rust concepts and standard libraries
 
-Writing Rust in Easy English
-https://dhghomon.github.io/easy_rust/
+[Writing Rust in Easy English](https://dhghomon.github.io/easy_rust/)
 
 
 ## 🚀 Performance
 
-The Rust Performance Book
-https://nnethercote.github.io/perf-book/general-tips.html
+[The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 
-How to write CRaP Rust code (Correct, Readable and Performant)
-https://blog.logrocket.com/how-to-write-crap-rust-code/
+[LogRocket Blog: How to write CRaP Rust code](https://blog.logrocket.com/how-to-write-crap-rust-code/) (Correct, Readable and Performant)
 
-Optimizing your code
-https://dev.to/luzero/optimizing-your-code-48n1
+Optimizing a Rust Codebase
+ - [Part 1: Profiling and Benchmarking](https://dev.to/luzero/profiling-and-benchmarking-167m)
+ - [Part 2: Optimizing your Code](https://dev.to/luzero/optimizing-your-code-48n1)
 
-From 48s to 5s - optimizing a 350 line pathtracer in Rust
+From 46s to 5s - Optimizing a 350 Line Raytracer in Rust
 https://blog.usejournal.com/from-48s-to-5s-optimizing-a-350-line-pathtracer-in-rust-191ab4a1a412
 
 Acheiving warp speed with Rust
