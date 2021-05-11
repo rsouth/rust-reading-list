@@ -457,3 +457,10 @@ https://without.boats/blog/
  
 https://github.com/actions-rs
 
+Developing in Rust using Visual Studio Code
+https://dev.to/thiagomg/developing-in-rust-using-visual-studio-code-4kkl
+
+Debugging Rust in VSCode - A 2020 guide for debugging Rust with Visual Studio Code.
+https://jason-williams.co.uk/debugging-rust-in-vscode
+
+
