@@ -497,6 +497,8 @@ https://hands-on-rust.com/
 
 r/rust - swash font crate: now with docs and a demo
 https://www.reddit.com/r/rust/comments/n42r54/swash_font_crate_now_with_docs_and_a_demo/
+ - https://docs.rs/swash/0.1.2/swash/
+ - https://github.com/dfrg/swash_demo
 
 Understanding Rust as a C++ developer
 https://renoth.medium.com/understanding-rust-as-a-c-developer-69ee8ca76fd6
@@ -505,9 +507,15 @@ https://micouy.github.io/blog/mutable-arguments-considered-harmful/
 
 r/statemachines - A proposal for a state machine pattern for Rust
 https://www.reddit.com/r/statemachines/comments/n2sjy8/a_proposal_for_a_state_machine_pattern_for_rust/
+https://frame-lang.org/
 
 r/rust - Minimal graphics crate for Rust
 https://www.reddit.com/r/rust/comments/mzhk18/minimal_graphics_crate_for_rust/
+ - Miniquad is a very minimal but very cross platform rendering library https://github.com/not-fl3/miniquad
+ - Good Web Game is a minimal game engine build on Miniquad https://github.com/not-fl3/good-web-game
+ - If you want less minimal, more features, ggez might be the right thing for you https://github.com/ggez/ggez
+ - https://github.com/parasyte/pixels
+ - https://github.com/emoon/rust_minifb
 
 My second impression of Rust after building a real-life use case with it and my thoughts on why it is the best general-purpose language for the future.
 https://deepu.tech/my-second-impression-of-rust/
