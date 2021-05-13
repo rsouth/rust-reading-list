@@ -2,7 +2,9 @@
   <img src="https://user-images.githubusercontent.com/292208/117505269-ad675280-af7b-11eb-9a43-2570669bec48.png">
 </p>
 
-🦀 Collection of hopefully useful, _semi-organised_ links as a reference from my first few weeks with Rust. Happy to accept PRs for any other useful links!
+🦀 Collection of hopefully useful, _semi-organised_ links as a reference from my time with Rust.
+
+ :octocat: [Happy to accept PRs for any other useful links!](https://github.com/rsouth/rust-reading-list)
 
 ## Contents
 
@@ -179,7 +181,7 @@ https://doc.rust-lang.org/rust-by-example/flow_control/match/destructuring/destr
 
 [Everything you need to know about cross compiling Rust programs](https://github.com/japaric/rust-cross)
 
-[Fearless Concurrency with Rust | Rust Blog](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
+[Fearless Concurrency with Rust](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
 
 
 ## 💪 Exercises
