@@ -463,4 +463,52 @@ https://dev.to/thiagomg/developing-in-rust-using-visual-studio-code-4kkl
 Debugging Rust in VSCode - A 2020 guide for debugging Rust with Visual Studio Code.
 https://jason-williams.co.uk/debugging-rust-in-vscode
 
+The Register: Microsoft unveils Rust for Windows v0.9, with 'full consumption support' for the Windows API.
+https://go.theregister.com/feed/www.theregister.com/2021/05/10/rust_for_windows/
+
+YouTube - Crust of Rust
+https://youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa
+
+https://ferrous-systems.github.io/teaching-material/
+
+Preparations - Workbook for Embedded Workshops
+https://embedded-trainings.ferrous-systems.com/
+
+https://tokio.rs/
+
+A personal blog focused on software, Machine Learning and other passing fads.
+https://www.lpalmieri.com/posts/2020-05-24-zero-to-production-0-foreword/
+
+rust-embedded/cross
+“Zero setup” cross compilation and “cross testing” of Rust crates - rust-embedded/cross
+https://github.com/rust-embedded/cross
+
+Zero To Production In Rust - An Introduction To Backend Development
+https://www.zero2prod.com/
+
+YouTube - Overview of the Rust Programming Language
+https://youtube.com/playlist?list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW
+
+YouTube - Rust Projects
+https://youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb
+
+Hands-On Rust
+https://hands-on-rust.com/
+
+r/rust - swash font crate: now with docs and a demo
+https://www.reddit.com/r/rust/comments/n42r54/swash_font_crate_now_with_docs_and_a_demo/
+
+Understanding Rust as a C++ developer
+https://renoth.medium.com/understanding-rust-as-a-c-developer-69ee8ca76fd6
+
+https://micouy.github.io/blog/mutable-arguments-considered-harmful/
+
+r/statemachines - A proposal for a state machine pattern for Rust
+https://www.reddit.com/r/statemachines/comments/n2sjy8/a_proposal_for_a_state_machine_pattern_for_rust/
+
+r/rust - Minimal graphics crate for Rust
+https://www.reddit.com/r/rust/comments/mzhk18/minimal_graphics_crate_for_rust/
+
+My second impression of Rust after building a real-life use case with it and my thoughts on why it is the best general-purpose language for the future.
+https://deepu.tech/my-second-impression-of-rust/
 
