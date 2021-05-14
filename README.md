@@ -520,3 +520,6 @@ https://www.reddit.com/r/rust/comments/mzhk18/minimal_graphics_crate_for_rust/
  - https://github.com/emoon/rust_minifb
 
 
+⚠️ no https -> http://joeduffyblog.com/2016/02/07/the-error-model/
+
+TODO: consider adding https://outline.com/ as an option for sites with no https.
