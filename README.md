@@ -4,6 +4,8 @@
 
 🦀 Collection of hopefully useful, _semi-organised_ links as a reference from my time with Rust.
 
+Also see my [ASM Reading List](https://github.com/rsouth/asm-reading-list/blob/main/README.md)
+
  :octocat: [Happy to accept PRs for any other useful links!](https://github.com/rsouth/rust-reading-list)
 
 ## Contents
